@@ -1,0 +1,13 @@
+1.0.3 Hotfix 3
+  Fixed some dialogues & translations
+
+1.0.2 - Hotfix 2
+  Lazy attempt to fix black screen on the Onward chase scene (Not sure if it works)
+
+1.0.1 - Hotfix 1
+  Fixed crash in Language Menu
+  Fixed dialogues messing up after retrying Deep Dark
+  Fixed black screen in Onward's chase scene (hopefully)
+  Updated credits
+
+1.0 - Release
