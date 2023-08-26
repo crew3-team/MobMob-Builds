@@ -1,3 +1,12 @@
+1.0.4 Hotfix 4
+  fixed some text still showing up in freeplay even if 'Dialogues on freeplay' was set to off
+  Fixed the wrong line in the secret deep dark cutscene
+  Fixed peaceful mode being unplayable
+  2 texts will not play at the same time anymore
+  You don't take damage anymore during a section when you aren't suppose to take damage with FNF health mode
+  added preload characters in fortress to prevent death due to lag 
+
+
 1.0.3 Hotfix 3
   Fixed some dialogues & translations
 
