@@ -1,4 +1,7 @@
-1.0.4 Hotfix 4
+1.0.5 - Hotfix 5
+  Better input system
+
+1.0.4 - Hotfix 4
   fixed some text still showing up in freeplay even if 'Dialogues on freeplay' was set to off
   Fixed the wrong line in the secret deep dark cutscene
   Fixed peaceful mode being unplayable
@@ -7,7 +10,7 @@
   added preload characters in fortress to prevent death due to lag 
 
 
-1.0.3 Hotfix 3
+1.0.3 - Hotfix 3
   Fixed some dialogues & translations
 
 1.0.2 - Hotfix 2
