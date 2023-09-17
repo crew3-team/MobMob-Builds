@@ -1,4 +1,4 @@
-1.1 - The enlarge update
+1.1 - The opti and QOL update (comming in a bit)
 Improved language selection menu (now sorted alphabetically)
 Added new panoramas from the Mob Mod Map
 Fixed cinematic offset still not moving in Fortress
