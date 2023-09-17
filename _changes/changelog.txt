@@ -1,4 +1,4 @@
-1.0.7 - A BIG HOTFIX (comming in a bit)
+1.0.7 - A BIG HOTFIX
 Improved language selection menu (now sorted alphabetically)
 Added new panoramas from the Mob Mod Map
 Fixed cinematic offset still not moving in Fortress
