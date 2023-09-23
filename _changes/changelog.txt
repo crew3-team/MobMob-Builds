@@ -1,44 +1,54 @@
+1.0.8 - Hotfix 8
+	Fixed "the procedure entry point decode URI could not be located in the dynamic link library" on windows devices
+	Fixed some Spanish Mexico translations
+	Fixed some cutscene sound playing befor the cutscene starts
+	Nerfed the Antispam (should be less agressive, and it's easier to play)
+	Make so the F3 debug text stays after leaving or restarting a song (still reset if you leave the game)
+	Change Accuracy mod to "Accurate" by default
+	"Accurate" accuracy now don't show digits
+	Now you see N/A for accuracy until you played a note
+
 1.0.7 - A BIG HOTFIX
-Improved language selection menu (now sorted alphabetically)
-Added new panoramas from the Mob Mod Map
-Fixed cinematic offset still not moving in Fortress
-Fixed some French Dialogues
-Using the newer version of HxCodec for videos
-You can now pause a cutscene (will auto pause when unfocussed)
-Added a message in cutscene to let players know they can pause or skip the cutscene
-Reduced health icon memory sizes and removed the iconGrid.png file
-Better Freeplay Menu: Discs don't move at opening and the selection says after quiting the menu
-Linux Build release
-New Update Menu
-Fixed the ghost tapping option set to off doing nothing
-Fixed the antimash not working (you can enjoy again the "Kicked for spamming" screen)
-Moved the keypress indication to the top on upscroll on Deep Dark
-Added a welcome screen to configure all important settings
-Fixed menu transitions in the story menu
-Added durability to the sheild (loses 1 when it's used and regain 1 when singing)
-Added the CPU to the F3 debug menu
-Fixed some mistranslations
-Improved menu transitions
-Fixed the slot selector being stuck on the middle slot when using a sheild
-Made the Pillage dance on beat 1 and 3 to mach their icon bumping
-Smoothed the displacement of arrows in the snow part in onward
-Improved Special Anims
-Added Unicode Font selection
-If your language in your PC exist on Mob Mod, it will load it on first launch
-Change how the cutscenes load to prevent desync
-2 texts shouldn't play at the same time anymore (again)
-Added Languages
-    - Russian (Russia)
-    - Greek (Greek)
-    - Spanish (Argentina)
-    - French (Canada)
-    - Indonesian (Indonesia)
-    - Georgian (Georgia)
-    - Dutch (The Netherlands)
-    - Ukrainian (Ukraine)
-    - Vietnamese (Vietnam)
-    - Simplified Chinese (Mainland China)
-    - Korean (Republic of Korea)
+	Improved language selection menu (now sorted alphabetically)
+	Added new panoramas from the Mob Mod Map
+	Fixed cinematic offset still not moving in Fortress
+	Fixed some French Dialogues
+	Using the newer version of HxCodec for videos
+	You can now pause a cutscene (will auto pause when unfocussed)
+	Added a message in cutscene to let players know they can pause or skip the cutscene
+	Reduced health icon memory sizes and removed the iconGrid.png file
+	Better Freeplay Menu: Discs don't move at opening and the selection says after quiting the menu
+	Linux Build release
+	New Update Menu
+	Fixed the ghost tapping option set to off doing nothing
+	Fixed the antimash not working (you can enjoy again the "Kicked for spamming" screen)
+	Moved the keypress indication to the top on upscroll on Deep Dark
+	Added a welcome screen to configure all important settings
+	Fixed menu transitions in the story menu
+	Added durability to the sheild (loses 1 when it's used and regain 1 when singing)
+	Added the CPU to the F3 debug menu
+	Fixed some mistranslations
+	Improved menu transitions
+	Fixed the slot selector being stuck on the middle slot when using a sheild
+	Made the Pillage dance on beat 1 and 3 to mach their icon bumping
+	Smoothed the displacement of arrows in the snow part in onward
+	Improved Special Anims
+	Added Unicode Font selection
+	If your language in your PC exist on Mob Mod, it will load it on first launch
+	Change how the cutscenes load to prevent desync
+	2 texts shouldn't play at the same time anymore (again)
+	Added Languages
+		- Russian (Russia)
+		- Greek (Greek)
+		- Spanish (Argentina)
+		- French (Canada)
+		- Indonesian (Indonesia)
+		- Georgian (Georgia)
+		- Dutch (The Netherlands)
+		- Ukrainian (Ukraine)
+		- Vietnamese (Vietnam)
+		- Simplified Chinese (Mainland China)
+		- Korean (Republic of Korea)
 
 
 1.0.6 - Hotfix 6
