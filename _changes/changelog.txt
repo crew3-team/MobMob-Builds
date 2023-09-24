@@ -2,7 +2,7 @@
 	Moved the video preloader from firt time getting to the main menu to launching a song and made a loading screen for it
 	Removed the gf-christmass usage gaining around 500MB of RAM
 	Made every character preload on their song (before, there were only fortress)
-	Fixed the crash on Windows after the Ghast soot in Fortress
+	Fixed the crash on Windows after the Ghast shoot in Fortress
 	Made update screen on Linux redirect to GameBanana instead of Github
 
 1.0.8 - Hotfix 8
