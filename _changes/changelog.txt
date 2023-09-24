@@ -3,6 +3,7 @@
 	Removed the gf-christmass usage gaining around 500MB of RAM
 	Made every character preload on their song (before, there were only fortress)
 	Fixed the crash on Windows after the Ghast soot in Fortress
+	Made update screen on Linux redirect to GameBanana instead of Github
 
 1.0.8 - Hotfix 8
 	Fixed "the procedure entry point decode URI could not be located in the dynamic link library" on windows devices
