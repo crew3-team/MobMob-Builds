@@ -1,3 +1,9 @@
+1.0.9 - Hotfix 9
+	Moved the video preloader from firt time getting to the main menu to launching a song and made a loading screen for it
+	Removed the gf-christmass usage gaining around 500MB of RAM
+	Made every character preload on their song (before, there were only fortress)
+	Fixed the crash on Windows after the Ghast soot in Fortress
+
 1.0.8 - Hotfix 8
 	Fixed "the procedure entry point decode URI could not be located in the dynamic link library" on windows devices
 	Fixed some Spanish Mexico translations
